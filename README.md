@@ -1,3 +1,3 @@
 # Basic Calculator
 
-Made with Flutter
+Made with Flutter in 15 min
